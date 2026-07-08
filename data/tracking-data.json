@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "trackingNumber": "TRK001",
+      "status": "In Transit",
+      "origin": "New York, NY",
+      "destination": "Los Angeles, CA",
+      "estimatedDelivery": "2026-07-10",
+      "carrier": "TrackSwift Express"
+    },
+    {
+      "trackingNumber": "TRK002",
+      "status": "Processing",
+      "origin": "Chicago, IL",
+      "destination": "Miami, FL",
+      "estimatedDelivery": "2026-07-12",
+      "carrier": "TrackSwift Express"
+    },
+    {
+      "trackingNumber": "TRK003",
+      "status": "Delivered",
+      "origin": "Seattle, WA",
+      "destination": "San Francisco, CA",
+      "estimatedDelivery": "2026-07-04",
+      "carrier": "TrackSwift Express"
+    }
+  ]
+}
